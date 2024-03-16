@@ -4,7 +4,7 @@
 # Segunda dimensión: Semanas (4 semanas)
 # Tercera dimensión: Días de la semana (7 días)
 temperaturas = [
-    [   # Ciudad 1
+    [   # Quito
         [   # Semana 1
             {"day": "Lunes", "temp": 25},
             {"day": "Martes", "temp": 34},
@@ -42,7 +42,7 @@ temperaturas = [
             {"day": "Domingo", "temp": 91}
         ]
     ],
-    [   # Ciudad 2
+    [   # Latacunga
         [   # Semana 1
             {"day": "Lunes", "temp": 62},
             {"day": "Martes", "temp": 64},
@@ -80,7 +80,7 @@ temperaturas = [
             {"day": "Domingo", "temp": 80}
         ]
     ],
-    [   # Ciudad 3
+    [   # Ibarra
         [   # Semana 1
             {"day": "Lunes", "temp": 90},
             {"day": "Martes", "temp": 92},
